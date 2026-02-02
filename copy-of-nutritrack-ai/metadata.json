@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriTrack AI",
+  "description": "A high-performance nutrition and fitness tracking application powered by AI for seamless meal logging and pattern detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
